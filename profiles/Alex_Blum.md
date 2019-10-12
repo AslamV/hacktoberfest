@@ -1,16 +1,16 @@
-# Alex Blum
+# Aslam
 
 ### Location
 
-Germany Marburg
+India Cochin
 
 ### Academics
 
-4 Semester Hight School
+Btech
 
 ### Interests
 
-- My Garden and Computer stuff
+- Coding
 
 ### Development
 
@@ -22,4 +22,4 @@ Germany Marburg
 
 ### Profile Link
 
-[Alex Blum](https://github.com/alexblum)
+[Aslam](https://github.com/AslamV)
